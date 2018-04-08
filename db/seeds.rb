@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Point.create(
+  name: "lewagon",
+  address: "107 cours balguerie Bordeaux",
+  longitude: 0.565937,
+  latitude: 44.859362
+)
